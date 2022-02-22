@@ -1,2 +1,2 @@
 # odin-recipes
-HTML basics
+HTML basics. Repo to practice my Git skills.
